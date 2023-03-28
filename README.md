@@ -67,6 +67,7 @@ Desktop version: ./screenshots/desktop.png
 
 1. Need structured system for naming CSS classes.
 2. Start out with creating classes for fonts and colors before styling anything else.
+3. Use semantic HTML (landmarks and ARIA).
 
 ## Author
 
