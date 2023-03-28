@@ -60,7 +60,7 @@ body {
 .qr-img {
     width: 100%;
     height: 100%;
-    display: block; /* Removes whitespace under image (image elements are inline by default) */
+    display: block;
 }
 
 .qr-text {
